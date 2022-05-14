@@ -1,0 +1,5 @@
+git status : shows status of files in current repository.eg, added, push, etc.
+git commit -m "Name of updated file to be saved" : To commit files to repository
+git add : add file to repository
+git push : to upload changes to repository in site
+git --version : to get github version
