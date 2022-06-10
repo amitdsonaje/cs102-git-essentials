@@ -15,4 +15,6 @@ create a folder in vscode and add "readme.md" file in it.
 1.For creating a title use hash along with space : "# "
 2.For subtitle use : "##"
 3.Similarly use n number of hashes to create n sections and subsections.
-4.Use enter after creating a titlw or subtile to add text below it.
+4.Use enter after creating a titlw or subtile to add text below it
+This is change made now.
+.
